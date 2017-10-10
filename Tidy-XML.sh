@@ -6,6 +6,7 @@
 #
 #	Purpose 	BBEdit Text Filter to "clean up" XML using tidy.
 #				Note that this should not _change_ your XML, just "reformat" or "reflow" it.
+#       File PLacement: ~/Library/Application Support/BBEdit/Text Filters
 
 	# if there is a `tidy` in `/usr/local/bin` then use that one rather than `/usr/bin`
 PATH=/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
